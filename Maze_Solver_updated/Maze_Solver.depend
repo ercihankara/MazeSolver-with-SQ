@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1669670929 source:d:\codeblocks\projects\maze_solver\main.cpp
+	<iostream>
+	<cstdlib>
+	"StackQueue.h"
+	"Maze.h"
+	"Left_Hand_Rule.hpp"
+
+1669660554 d:\codeblocks\projects\maze_solver\maze.h
+	<iostream>
+	<cstdlib>
+
+1669466560 d:\codeblocks\projects\maze_solver\get_maze_file.h
+	<fstream>
+	<iostream>
+
+1669660540 source:d:\codeblocks\projects\maze_solver\maze.cpp
+	"Maze.h"
+	<iostream>
+	"get_maze_file.h"
+
+1669648801 source:d:\codeblocks\projects\maze_solver\stackqueue.cpp
+	"StackQueue.h"
+
+1670275514 d:\codeblocks\projects\maze_solver\stackqueue.h
+	<iostream>
+	<cstdlib>
+
+1670272275 d:\codeblocks\projects\maze_solver\left_hand_rule.hpp
+	<iostream>
+	<cstdlib>
+	"Maze.h"
+
